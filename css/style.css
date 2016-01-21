@@ -217,7 +217,7 @@ body,
 }
 ::selection {
   color: #fff;
-  background: #3b8dbd;
+  background: #d35;
 }
 body {
   background: #eaeaea;
@@ -256,14 +256,14 @@ body {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 165px;
-  height: 60px;
-  background-image: url("images/images.png");
+  width: 140px;
+  height: 140px;
+  background-image: url("images/proton.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 165px 60px;
-  -moz-background-size: 165px 60px;
-  background-size: 165px 60px;
+  -webkit-background-size: 140px 140px;
+  -moz-background-size: 140px 140px;
+  background-size: 140px 140px;
 }
 .main-body {
   margin-top: -60px;
@@ -358,9 +358,9 @@ body {
   margin-left: 20px;
 }
 #header-title .subtitle {
-  font-size: 16px;
+  font-size: 25px;
   font-style: italic;
-  line-height: 70px;
+  line-height: 150px;
   color: rgba(255,255,255,0.7);
   text-shadow: 0 1px rgba(0,0,0,0.2);
 }
@@ -542,7 +542,7 @@ body {
   display: none;
 }
 #sidebar .sidebar-top {
-  background: #3b8dbd;
+  background: #d35;
   padding: 15px 30px;
 }
 #sidebar .sidebar-top:before,
@@ -662,7 +662,7 @@ body {
   background: rgba(0,0,0,0.02);
 }
 .article-nav-link-wrap:hover .icon {
-  color: #3b8dbd;
+  color: #d35;
 }
 .article-nav-caption {
   display: block;
@@ -839,7 +839,7 @@ body {
 }
 #recent-post li .item-inner a a,
 #recent-post li .item-inner .item-category a {
-  color: #3b8dbd;
+  color: #d35;
 }
 #recent-post li .item-inner a a:hover,
 #recent-post li .item-inner .item-category a:hover {
@@ -870,7 +870,7 @@ body {
   opacity: 0.8;
 }
 #recent-post li:hover .item-title a {
-  color: #3b8dbd;
+  color: #d35;
 }
 .category-list-count,
 .tag-list-count,
@@ -947,7 +947,7 @@ body {
 }
 .article-summary a {
   text-decoration: none;
-  color: #3b8dbd;
+  color: #d35;
 }
 .article-summary .article-summary-inner {
   margin-right: 30px;
@@ -1010,7 +1010,7 @@ body {
   opacity: 0.7;
 }
 .article-summary:hover .article-title a {
-  color: #3b8dbd;
+  color: #d35;
 }
 .article-category {
   float: left;
@@ -1035,7 +1035,7 @@ body {
   margin-bottom: 10px;
 }
 a.article-title:hover {
-  color: #3b8dbd;
+  color: #d35;
 }
 .article-byline {
   margin-bottom: 10px;
@@ -1076,7 +1076,7 @@ a.article-title:hover {
   margin: 1.3em 0;
 }
 .article-entry a {
-  color: #3b8dbd;
+  color: #d35;
   text-decoration: none;
 }
 .article-entry a:hover {
@@ -1179,10 +1179,10 @@ a.article-title:hover {
   text-decoration: none;
 }
 .article-more-link a:hover {
-  background: #3b8dbd;
+  background: #d35;
   color: #fff;
   text-decoration: none;
-  text-shadow: 0 1px #2f7197;
+  text-shadow: 0 1px #bb1f3e;
 }
 .article-footer {
   font-size: 14px;
@@ -1349,7 +1349,7 @@ a.article-title:hover {
   padding: 30px 30px 20px;
 }
 #comments a {
-  color: #3b8dbd;
+  color: #d35;
 }
 .archives-wrap {
   margin: block-margin 0;
@@ -1405,7 +1405,7 @@ a.article-title:hover {
   line-height: 1.6em;
 }
 .archive-article-title:hover {
-  color: #3b8dbd;
+  color: #d35;
 }
 .archive-article-footer {
   margin-top: 1em;
@@ -1448,7 +1448,7 @@ a.article-title:hover {
 }
 #page-nav .page-number,
 #page-nav .extend {
-  color: #3b8dbd;
+  color: #d35;
   position: relative;
   overflow: hidden;
   font-size: 16px;
@@ -1471,7 +1471,7 @@ a.article-title:hover {
 #page-nav .page-number.current,
 #page-nav .extend.current {
   color: #444;
-  border-bottom: 3px solid #3b8dbd;
+  border-bottom: 3px solid #d35;
   border-top: 1px solid #f1f1f1;
 }
 #page-nav .space {
@@ -1515,11 +1515,11 @@ a.article-title:hover {
   line-height: 22px;
 }
 #footer .logo {
-  width: 132px;
-  height: 48px;
-  -webkit-background-size: 132px 48px;
-  -moz-background-size: 132px 48px;
-  background-size: 132px 48px;
+  width: 112px;
+  height: 112px;
+  -webkit-background-size: 112px 112px;
+  -moz-background-size: 112px 112px;
+  background-size: 112px 112px;
 }
 i.icon {
   display: inline-block;
@@ -1668,7 +1668,7 @@ i.icon:before {
     color: rgba(255,255,255,0.7);
     text-align: center;
     height: 50px;
-    background: #3b8dbd;
+    background: #d35;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
