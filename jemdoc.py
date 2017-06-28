@@ -214,10 +214,9 @@ def standardconf():
   </div>
   
   [bodyend]
-  <a title="web statistics" href="http://statcounter.com/"
-  target="_blank"><img
+  <a title="web analytics" href="http://statcounter.com/"target="_blank"><img
   src="//c.statcounter.com/11380057/0/ac5ac440/0/" alt="web
-  statistics" style="border:none;"></a>
+  analytics" style="border:none;"></a>
   </body>
   </html>
   
