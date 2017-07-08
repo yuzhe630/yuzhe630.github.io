@@ -136,6 +136,8 @@ def standardconf():
   <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
   <head>
   <meta name="generator" content="jemdoc, see http://jemdoc.jaboc.net/" />
+  <meta name="keywords" content="Yuzhe Ma, CUHK-CSE" />
+  <meta name="description" content="Yuzhe Ma's Homepage, CUHK-CSE" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
   
   [defaultcss]
