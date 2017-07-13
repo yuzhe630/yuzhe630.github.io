@@ -139,6 +139,7 @@ def standardconf():
   <meta name="keywords" content="Yuzhe Ma, CUHK-CSE" />
   <meta name="description" content="Yuzhe Ma's Homepage, CUHK-CSE" />
   <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
   [defaultcss]
   <link rel="stylesheet" href="jemdoc.css" type="text/css" />
