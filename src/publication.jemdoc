@@ -1,0 +1,7 @@
+# jemdoc: menu{MENU}{publication.html}
+== Publications
+
+=== Conference Papers
+- \[C2\] *Yuzhe Ma*, Jhih-Rong Gao, Jian Kuang, Jin Miao and Bei Yu, “A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization”, accepted by IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, November 13-16, 2017.
+
+- \[C1\] Subhendu Roy, *Yuzhe Ma*, Jin Miao and Bei Yu, “A Learning Bridge from Architectural Synthesis to Physical Design for Exploring Power Efficient High-Performance Adders”, IEEE International Symposium on Low Power Electronics and Design (*ISLPED*), Taipei, July 24-26, 2017. ([http://www.cse.cuhk.edu.hk/~byu/papers/C61_ISLPED2017_MLAdder.pdf paper]) ([http://www.cse.cuhk.edu.hk/~byu/papers/C61_ISLPED2017_MLAdder_slides.pdf slides])

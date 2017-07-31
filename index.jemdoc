@@ -14,14 +14,14 @@
 {{<a href="https://www.linkedin.com/in/yuzhe-ma-275a7bb5" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a>
 <a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
 
-#include{doc/biography.jemdoc}
+#include{src/biography.jemdoc}
 
-#include{doc/publication.jemdoc}
+#include{src/publication.jemdoc}
 
-#include{doc/experience.jemdoc}
+#include{src/experience.jemdoc}
 
-#include{doc/award.jemdoc}
+#include{src/award.jemdoc}
 
 # #include{services.jemdoc}
 
-#include{doc/teaching.jemdoc}
+#include{src/teaching.jemdoc}
