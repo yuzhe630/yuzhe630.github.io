@@ -2,7 +2,7 @@
 == Publications
 
 === Journal Paper
-- \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma, Bei Yu, "SD-PUF: Spliced Digital Physical Unclonable Function", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (preprint)]
+- \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma, Bei Yu, [http://ieeexplore.ieee.org/document/8010808/ "SD-PUF: Spliced Digital Physical Unclonable Function"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (preprint)]
 
 === Conference Papers
 - \[C4\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Irvine, CA, Nov. 13–16, 2017. (*Invited Paper*)
