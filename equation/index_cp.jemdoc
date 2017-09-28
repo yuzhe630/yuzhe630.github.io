@@ -14,9 +14,9 @@
 {{<a href="https://www.linkedin.com/in/yuzhe-ma-275a7bb5" target="<u>blank"><img src="img/linkedin-logo.png" height=30></a>
 <a href="https://scholar.google.com/citations?user=iANUv3MAAAAJ&hl=en&oi=sra" target="<u>blank"><img src="img/scholar.png" height=30></a>  }}
 
-#\(
-#a = b + c
-#\)
+\(
+\alpha = b + c
+\)
 #include{src/biography.jemdoc}
 
 #include{src/publication.jemdoc}
