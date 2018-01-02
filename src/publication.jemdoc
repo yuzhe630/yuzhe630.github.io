@@ -5,9 +5,9 @@
 - \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma and Bei Yu, [http://ieeexplore.ieee.org/document/8010808/ "SD-PUF: Spliced Digital Physical Unclonable Function"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (preprint)]
 
 === Conference Papers
-- \[C4\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 915-922, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C4-ICCAD2017-RippleFPGA.pdf (paper)] (*Invited Paper*)
+- \[C4\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, [http://ieeexplore.ieee.org/document/8203880/ "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 915-922, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C4-ICCAD2017-RippleFPGA.pdf (paper)] (*Invited Paper*)
 
-- \[C3\] Yuzhe Ma, Jhih-Rong Gao, Jian Kuang, Jin Miao and Bei Yu, "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 81-88, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C3-ICCAD2017-MPL-OPC.pdf (paper)]
+- \[C3\] Yuzhe Ma, Jhih-Rong Gao, Jian Kuang, Jin Miao and Bei Yu, [http://ieeexplore.ieee.org/document/8203763/ "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 81-88, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C3-ICCAD2017-MPL-OPC.pdf (paper)]
 
 - \[C2\] Yuzhe Ma, Xuan Zeng and Bei Yu, "Methodologies for Layout Decomposition and Mask Optimization: A Systematic Review", IFIP/IEEE International Conference on Very Large Scale Integration (VLSI-SoC), Abu Dhabi, UAE, Oct. 23-25, 2017. ([http://www.cse.cuhk.edu.hk/~yzma/papers/C2-VLSI-SoC2017-LDMO.pdf paper]) (*Invited Paper*)
 
