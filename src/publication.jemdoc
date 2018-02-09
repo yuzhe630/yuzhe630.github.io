@@ -5,6 +5,8 @@
 - \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma and Bei Yu, [http://ieeexplore.ieee.org/document/8010808/ "SD-PUF: Spliced Digital Physical Unclonable Function"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*). [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (preprint)]
 
 === Conference Papers
+- \[C5\] Haoyu Yang, Shuhe Li, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, June 24–28, 2018.
+
 - \[C4\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, [http://ieeexplore.ieee.org/document/8203880/ "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 915-922, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C4-ICCAD2017-RippleFPGA.pdf (paper)] (*Invited Paper*)
 
 - \[C3\] Yuzhe Ma, Jhih-Rong Gao, Jian Kuang, Jin Miao and Bei Yu, [http://ieeexplore.ieee.org/document/8203763/ "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 81-88, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C3-ICCAD2017-MPL-OPC.pdf (paper)]
