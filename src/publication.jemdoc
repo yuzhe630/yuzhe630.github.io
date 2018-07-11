@@ -5,7 +5,7 @@
 - \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma and Bei Yu, [http://ieeexplore.ieee.org/document/8010808/ "SD-PUF: Spliced Digital Physical Unclonable Function"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 37, no. 5, pp. 927–940, 2018. [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (paper)]
 
 === Conference Papers
-- \[C5\] Haoyu Yang, Shuhe Li, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, June 24–28, 2018.
+- \[C5\] Haoyu Yang, Shuhe Li, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets", ACM/IEEE Design Automation Conference (*DAC*), pp. 131:1–131:6, San Francisco, CA, June 24–28, 2018. [http://www.cse.cuhk.edu.hk/~yzma/papers/C5-DAC2018-GAN-OPC.pdf (paper)]
 
 - \[C4\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, [http://ieeexplore.ieee.org/document/8203880/ "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 915-922, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C4-ICCAD2017-RippleFPGA.pdf (paper)] # (*Invited Paper*)
 
