@@ -1,6 +1,8 @@
 # jemdoc: menu{MENU}{publication.html}
 == Publications
 
+=== Journal Papers
+
 - \[J4\] Yuzhe Ma, Subhendu Roy, Jin Miao, Jiamin Chen, Bei Yu, "Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 - \[J3\] Qianru Zhang, Meng Zhang, Tinghuan Chen, Zhifei Sun, Yuzhe Ma, Bei Yu, [https://doi.org/10.1016/j.neucom.2018.09.038 "Recent Advances in Convolutional Neural Network Acceleration"], accepted by Neurocomputing
@@ -9,13 +11,15 @@
 
 - \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma and Bei Yu, [http://ieeexplore.ieee.org/document/8010808/ "SD-PUF: Spliced Digital Physical Unclonable Function"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 37, no. 5, pp. 927–940, 2018. [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (paper)]
 
+=== Conference Papers
+
 - \[C6\] Hao Geng, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, "SRAF Insertion via Supervised Dictionary Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan. 21-24, 2019.
 
 - \[C5\] Haoyu Yang, Shuhe Li, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, [https://dl.acm.org/citation.cfm?doid=3195970.3196056 "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets"], ACM/IEEE Design Automation Conference (*DAC*), pp. 131:1–131:6, San Francisco, CA, June 24-28, 2018. [http://www.cse.cuhk.edu.hk/~yzma/papers/C5-DAC2018-GAN-OPC.pdf (paper)]
 
-- \[C4\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, [http://ieeexplore.ieee.org/document/8203880/ "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 915-922, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C4-ICCAD2017-RippleFPGA.pdf (paper)] # (*Invited Paper*)
+- \[C4\] Yuzhe Ma, Jhih-Rong Gao, Jian Kuang, Jin Miao and Bei Yu, [http://ieeexplore.ieee.org/document/8203763/ "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 81-88, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C3-ICCAD2017-MPL-OPC.pdf (paper)]
 
-- \[C3\] Yuzhe Ma, Jhih-Rong Gao, Jian Kuang, Jin Miao and Bei Yu, [http://ieeexplore.ieee.org/document/8203763/ "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 81-88, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C3-ICCAD2017-MPL-OPC.pdf (paper)]
+- \[C3\] Chak-Wa Pui, Gengjie Chen, Yuzhe Ma, Evangeline F. Y. Young and Bei Yu, [http://ieeexplore.ieee.org/document/8203880/ "Clock-Aware UltraScale FPGA Placement with Machine Learning Routability Prediction"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), pp. 915-922, Irvine, CA, Nov. 13-16, 2017. [http://www.cse.cuhk.edu.hk/~yzma/papers/C4-ICCAD2017-RippleFPGA.pdf (paper)] # (*Invited Paper*)
 
 - \[C2\] Yuzhe Ma, Xuan Zeng and Bei Yu, [http://ieeexplore.ieee.org/document/8203477/ "Methodologies for Layout Decomposition and Mask Optimization: A Systematic Review"], IFIP/IEEE International Conference on Very Large Scale Integration (*VLSI-SoC*), Abu Dhabi, UAE, Oct. 23-25, 2017. ([http://www.cse.cuhk.edu.hk/~yzma/papers/C2-VLSI-SoC2017-LDMO.pdf paper]) #(*Invited Paper*)
 
