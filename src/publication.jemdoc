@@ -5,17 +5,17 @@
 
 - \[J4\] Yuzhe Ma, Subhendu Roy, Jin Miao, Jiamin Chen, Bei Yu, [https://ieeexplore.ieee.org/document/8509188 "Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
-- \[J3\] Qianru Zhang, Meng Zhang, Tinghuan Chen, Zhifei Sun, Yuzhe Ma, Bei Yu, [https://doi.org/10.1016/j.neucom.2018.09.038 "Recent Advances in Convolutional Neural Network Acceleration"], Neurocomputing, vol. 323, pp. 37-51, Jan., 2019.
+- \[J3\] Haoyu Yang, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2018.2837078 "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
-- \[J2\] Haoyu Yang, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2018.2837078 "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J2\] Qianru Zhang, Meng Zhang, Tinghuan Chen, Zhifei Sun, Yuzhe Ma, Bei Yu, [https://doi.org/10.1016/j.neucom.2018.09.038 "Recent Advances in Convolutional Neural Network Acceleration"], Neurocomputing, vol. 323, pp. 37-51, Jan., 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/J2-DNN-overview.pdf (paper)]
 
 - \[J1\] Jin Miao, Meng Li, Subhendu Roy, Yuzhe Ma and Bei Yu, [http://ieeexplore.ieee.org/document/8010808/ "SD-PUF: Spliced Digital Physical Unclonable Function"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 37, no. 5, pp. 927–940, 2018. [http://www.cse.cuhk.edu.hk/~yzma/papers/J1-TCAD-DigitPUF.pdf (paper)]
 
 === Conference Papers
 
-- \[C7\] Yuzhe Ma, Haoxing Ren, Brucek Khailany, Harbinder Sikka, Lijuan Luo, Karthikeyan Natarajan, Bei Yu, "High Performance Graph Convolutional Networks with Applications in Testability Analysis", ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2-6, 2019.
+- \[C7\] Yuzhe Ma, Haoxing Ren, Brucek Khailany, Harbinder Sikka, Lijuan Luo, Karthikeyan Natarajan, Bei Yu, "High Performance Graph Convolutional Networks with Applications in Testability Analysis", ACM/IEEE Design Automation Conference (*DAC*), Las Vegas, NV, June 2-6, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST.pdf (paper)]
 
-- \[C6\] Hao Geng, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1145/3287624.3287684 "SRAF Insertion via Supervised Dictionary Learning"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan. 21-24, 2019. {{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
+- \[C6\] Hao Geng, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1145/3287624.3287684 "SRAF Insertion via Supervised Dictionary Learning"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan. 21-24, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C6-ASPDAC2019-SRAF.pdf (paper)]{{<font color=red size=+0.5><b>}}(Best Paper Award Nomination){{</b></font>}}
 
 - \[C5\] Haoyu Yang, Shuhe Li, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, [https://dl.acm.org/citation.cfm?doid=3195970.3196056 "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets"], ACM/IEEE Design Automation Conference (*DAC*), pp. 131:1–131:6, San Francisco, CA, June 24-28, 2018. [http://www.cse.cuhk.edu.hk/~yzma/papers/C5-DAC2018-GAN-OPC.pdf (paper)]
 
