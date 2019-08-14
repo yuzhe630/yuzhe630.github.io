@@ -13,6 +13,8 @@
 
 === Conference Papers
 
+- \[C8\] Yuzhe Ma, Ran Chen, Wei Li, Fanhua Shang, Wenjian Yu, Minsik Cho, Bei Yu, "A Unified Approximation Framework for Compressing and Accelerating Deep Neural Networks", IEEE International Conference on Tools with Artificial Intelligence (*ICTAI*), Portland, OR, Nov. 4-6, 2019.
+
 - \[C7\] Yuzhe Ma, Haoxing Ren, Brucek Khailany, Harbinder Sikka, Lijuan Luo, Karthikeyan Natarajan, Bei Yu, [https://dl.acm.org/citation.cfm?id=3316781.3317838 "High Performance Graph Convolutional Networks with Applications in Testability Analysis"], ACM/IEEE Design Automation Conference (*DAC*), pp. 18:1-18:6, Las Vegas, NV, June 2-6, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST.pdf (paper)] [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST-slides.pdf (slides)] [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST-poster.pdf (poster)]
 
 - \[C6\] Hao Geng, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1145/3287624.3287684 "SRAF Insertion via Supervised Dictionary Learning"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Tokyo, Jan. 21-24, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C6-ASPDAC2019-SRAF.pdf (paper)]  {{<font color=red size=+0.5><b>}} (Best Paper Award Nomination) {{</b></font>}}
