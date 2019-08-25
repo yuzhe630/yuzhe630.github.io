@@ -3,6 +3,8 @@
 
 === Journal Papers
 
+- \[J5\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+
 - \[J4\] Yuzhe Ma, Subhendu Roy, Jin Miao, Jiamin Chen, Bei Yu, [https://ieeexplore.ieee.org/document/8509188 "Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 - \[J3\] Haoyu Yang, Jing Su, Yi Zou, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2018.2837078 "Layout Hotspot Detection with Feature Tensor Generation and Deep Biased Learning"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 38, no. 6, pp. 1175-1187, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/J3-TCAD-CNN-HSD.pdf (paper)]
