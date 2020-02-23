@@ -22,6 +22,6 @@
 
 #include{src/award.jemdoc}
 
-# #include{src/services.jemdoc}
+#include{src/services.jemdoc}
 
 #include{src/teaching.jemdoc}
