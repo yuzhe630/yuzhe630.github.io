@@ -3,6 +3,8 @@
 
 === Journal Papers
 
+- \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+
 - \[J6\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1109/TCAD.2019.2943568 "SRAF Insertion via Supervised Dictionary Learning"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 - \[J5\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2019.2939329 "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
