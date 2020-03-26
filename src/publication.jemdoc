@@ -3,7 +3,7 @@
 
 === Journal Papers
 
-- \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, [https://ieeexplore.ieee.org/document/9039708 "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 - \[J6\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1109/TCAD.2019.2943568 "SRAF Insertion via Supervised Dictionary Learning"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
@@ -23,13 +23,13 @@
 
 - \[C12\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu Yang, Xiuyuan Ma, Bei Yu, "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, July 19–23, 2020.
 
-- \[C11\] Yuzhe Ma, Zhuolun He, Wei Li, Lu Zhang, Bei Yu, "Understanding Graphs in EDA: From Shallow to Deep Learning", ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 25–Apr. 01, 2020. (Invited Paper)
+- \[C11\] Yuzhe Ma, Zhuolun He, Wei Li, Lu Zhang, Bei Yu, [https://dl.acm.org/doi/abs/10.1145/3372780.3378173 "Understanding Graphs in EDA: From Shallow to Deep Learning"], ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 25–Apr. 01, 2020. (Invited Paper)
 
 - \[C10\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, "VLSI Mask Optimization: From Shallow To Deep Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Beijing, Jan. 13-16, 2020. (Invited Paper)
 
 - \[C9\] Yuzhe Ma, Ran Chen, Wei Li, Fanhua Shang, Wenjian Yu, Minsik Cho, Bei Yu, [https://ieeexplore.ieee.org/abstract/document/8995407 "A Unified Approximation Framework for Compressing and Accelerating Deep Neural Networks"], IEEE International Conference on Tools with Artificial Intelligence (*ICTAI*), Portland, OR, Nov. 4-6, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C9-ICTAI2019-ConvSpeed.pdf (paper)][http://www.cse.cuhk.edu.hk/~yzma/papers/C9-ICTAI2019-ConvSpeed-slides.pdf (slides)] {{<font color=red size=+0.5><b>}} (Best Student Paper Award) {{</b></font>}} 
 
-- \[C8\] Wei Li, Yuzhe Ma, Qi Sun, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, "OpenMPL: An Open Source Layout Decomposer", IEEE International Conference on ASIC (*ASICON*), Chongqing, China, Oct. 29-Nov. 1, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C8-ASICON2019-OpenMPL.pdf (paper)]
+- \[C8\] Wei Li, Yuzhe Ma, Qi Sun, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, [https://ieeexplore.ieee.org/document/8983622 "OpenMPL: An Open Source Layout Decomposer"], IEEE International Conference on ASIC (*ASICON*), Chongqing, China, Oct. 29-Nov. 1, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C8-ASICON2019-OpenMPL.pdf (paper)] (Invited Paper)
 
 - \[C7\] Yuzhe Ma, Haoxing Ren, Brucek Khailany, Harbinder Sikka, Lijuan Luo, Karthikeyan Natarajan, Bei Yu, [https://dl.acm.org/citation.cfm?id=3316781.3317838 "High Performance Graph Convolutional Networks with Applications in Testability Analysis"], ACM/IEEE Design Automation Conference (*DAC*), pp. 18:1-18:6, Las Vegas, NV, June 2-6, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST.pdf (paper)] [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST-slides.pdf (slides)] [http://www.cse.cuhk.edu.hk/~yzma/papers/C7-DAC2019-GCN-TEST-poster.pdf (poster)]
 
