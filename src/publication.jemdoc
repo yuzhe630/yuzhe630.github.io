@@ -44,3 +44,7 @@
 - \[C2\] Yuzhe Ma, Xuan Zeng and Bei Yu, [http://ieeexplore.ieee.org/document/8203477/ "Methodologies for Layout Decomposition and Mask Optimization: A Systematic Review"], IFIP/IEEE International Conference on Very Large Scale Integration (*VLSI-SoC*), Abu Dhabi, UAE, Oct. 23-25, 2017. ([http://www.cse.cuhk.edu.hk/~yzma/papers/C2-VLSI-SoC2017-LDMO.pdf paper]) #(*Invited Paper*)
 
 - \[C1\] Subhendu Roy, Yuzhe Ma, Jin Miao and Bei Yu, [http://ieeexplore.ieee.org/abstract/document/8009168/ "A Learning Bridge from Architectural Synthesis to Physical Design for Exploring Power Efficient High-Performance Adders"], IEEE International Symposium on Low Power Electronics and Design (*ISLPED*), pp. 1-6, Taipei, Jul. 24-26, 2017. ([http://www.cse.cuhk.edu.hk/~yzma/papers/C1-ISLPED2017-MLAdder.pdf paper]) ([http://www.cse.cuhk.edu.hk/~yzma/papers/C1-ISLPED2017-MLAdder-slides.pdf slides])
+
+=== Patents
+
+- \[P1\] Yuzhe Ma, Haoxing Ren, Brucek Khailany, Harbinder Sikka, Lijuan Luo, Karthikeyan Natarajan, "Deep learning testability analysis with graph convolutional networks", US Patent 10657306, May, 2020.
