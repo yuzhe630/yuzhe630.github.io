@@ -3,6 +3,8 @@
 
 === Journal Papers
 
+- \[J8\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg, "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*) 
+
 - \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, [https://ieeexplore.ieee.org/document/9039708 "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
 
 - \[J6\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1109/TCAD.2019.2943568 "SRAF Insertion via Supervised Dictionary Learning"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
