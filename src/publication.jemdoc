@@ -3,6 +3,10 @@
 
 === Journal Papers
 
+- \[J10\] Wei Li, Yuzhe Ma, Qi Sun, Lu Zhang, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, "OpenMPL: An Open Source Layout Decomposer", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
+- \[J9\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, "VLSI Mask Optimization: From Shallow To Deep Learning", accepted by Integration, the VLSI Journal.
+
 - \[J8\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg, "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*) 
 
 - \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, [https://ieeexplore.ieee.org/document/9039708 "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
