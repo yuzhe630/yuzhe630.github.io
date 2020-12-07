@@ -1,0 +1,220 @@
+/************************************************** sections */
+body {
+	background: white ;
+	font-family: "Helvetica Neue" ;
+	margin-right: 4mm ;
+/*	font-family: Georgia, Optima, Bookman, Palatino, Palatino, serif ;*/
+/*	font-family: "Trebuchet MS", Helvetica, sans-serif ;*/
+}
+
+h1, h2, h3, h4 {
+	color: #000000 ;
+	margin-top: 0.7em ;
+	margin-bottom: 0.7em ;
+	margin-right: 0em ;
+	padding-top: 0.5em ;
+	padding-bottom: 0.2em ;
+	line-height: 1.0 ;
+	border-bottom: 2px solid #bfbf8f ;
+	max-width: 1000px ;
+}
+
+h3, h4 {
+	border-bottom: none ;
+}
+
+/************************************************** blocks */
+.blockcontent {
+	text-align: justify;
+	max-width: 900px ;
+	margin-right: 10px ;
+	box-shadow: 0px 2px 12px #bfbfbf ;
+}
+
+ul {
+	margin-left: -1em ;
+}
+
+p + div.codeblock {
+	margin-top: 1em ;
+}
+
+/************************************************** tables */
+table {
+	background: #ffff9f ;
+	border: 0px ;
+	margin-top: 10px ;
+	margin-left: 0px ;
+	box-shadow: 0px 2px 12px #bfbfbf ;
+	margin-bottom: 10px ;
+	padding: 0px ;
+}
+
+table#students {
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+table td {
+	padding-top: 5px ;
+}
+
+table#tlayout {
+	border-collapse: separate ;
+	background: white ;
+	margin: 0px ;
+	box-shadow: none ;
+}
+
+table tr.r1 {
+	border-top: 2px solid black ;
+	border-bottom: 2px solid black ;
+	font-weight: bold ;
+	line-height: 22px ;
+	background: #f4f605 ;
+}
+
+table.imgtable {
+	border-collapse: collapse ;
+	padding: 0px ;
+	max-width: 1400px ;
+	border: 1px solid #bfbfbf ;
+}
+
+table.imgtable img {
+	box-shadow: 0px 2px 12px #bfbfbf ;
+}
+
+iframe {
+	display: block ;
+	margin-left: 0px ;
+	margin-right: auto ;
+	box-shadow: 0px 2px 12px #bfbfbf ;
+}
+
+div.codeblock > div.blockcontent {
+	background: #ffff9f ;
+	border: 1px solid #9f9f9f ;
+}
+
+table.imgtable td {
+	padding: 10px ;
+	margin: 0px ;
+	text-align: justify ;
+}
+
+#table.imgtable td img {
+	display: block ;
+}
+
+table.imgtable td img {
+	vertical-align: bottom ;
+}
+
+/************************************************** images */
+img {
+	margin-right: auto ;
+	box-shadow: 0px 2px 12px #bfbfbf ;
+	border: 1px solid #9f9f9f ;
+}
+
+img.indented {
+	display: block ;
+	margin-top: 20px ;
+	margin-bottom: 20px ;
+	margin-left: 40px ;
+}
+
+img.displayed {
+	display: block ;
+	margin-top: 20px ;
+	margin-bottom: 20px ;
+	margin-left: auto ;
+	margin-right: auto ;
+}
+
+div.infoblock > div.blockcontent {
+	background: #ffff8f ;
+}
+
+#layout-menu a.current:link, #layout-menu a.current:visited {
+	padding-left: 0px ;
+	padding-right: 0px ;
+	background: #f4f605;	
+	border: 3px solid #f4f605 ;
+}
+
+#layout-menu {
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+	background: #b6b6f6;
+	padding-left: 5px;
+	padding-right: 5px;
+	font-size: 90% ;
+	box-shadow: 0px 2px 12px #bfbfbf ;
+	min-width: 85px ;
+	border: 1px solid #9f9f9f ;
+}
+
+#layout-menu a.current:link, #layout-menu a.current:visited {
+	color: #f4f605 ;
+}
+
+#layout-content {
+	margin: 0px 0px 0px 0px ;
+	padding: 15px 0px 0px 15px ;
+/*	border: 1px #000000 solid ;*/
+/*	background: white ;*/
+/*	text-align: justify ;*/
+	vertical-align: top ;
+/*	box-shadow: 0px 2px 12px #444444 ;*/
+	max-width: 1000px ;
+}
+
+a,
+a > tt,
+#layout-menu a.current:link,
+#layout-menu a.current:visited,
+#layout-menu a:link,
+#layout-menu a:visited,
+#layout-menu a:hover
+{
+	color: #000000 ;
+}
+
+div.menu-category { /* RAK main headings in side menu */
+	border: 0px ;
+	border-bottom: #8f8f8f solid 2px ;
+	margin: 8px 4px 2px 4px ;
+	padding: 1px 0px 0px 0px ;
+	font-weight: bold ;
+	text-align: left ;
+}
+
+a, a > tt {
+	color: #7a7aa5 ;
+	text-decoration: none ;
+}
+
+a:hover {
+	color: #000000 ;
+	background: #f4f605;	
+	border-bottom: 1px #999900 solid ;
+}
+
+@media print {
+header nav, footer {
+	display: none;
+}
+h1, h2, h3, {
+	page-break-before: always ;
+}
+}
+
+@media only screen and (max-device-width: 480px) {
+header nav, footer {
+	display: none;
+}
+table.imgtable td img {
+	max-width: 150px ;
+}
+}
+

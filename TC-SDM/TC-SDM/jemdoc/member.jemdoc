@@ -1,0 +1,30 @@
+# jemdoc: menu{MENU}{member.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{TC-SDM}
+
+# ==== header
+#include{header.jemdoc}
+
+= TC Chairs
+#{{{
+\<table id=noborder\>
+\<tr\>
+\<td width=\"50\%\"\>
+# ==== Prof. S. Hu
+~~~
+{}{img_left}{img/committee/committee-syhu.jpg}{}{120}{}{}
+
+=== [http://personal.southampton.ac.uk/sh2e19/ Shiyan Hu]
+School of Electronics and Computer Science \n
+University of Southampton \n
+United Kingdom  \n
+==== [http://personal.southampton.ac.uk/sh2e19/ Homepage]
+~~~
+
+
+\n \n
+
+# ==== bottom
+#include{bottom.jemdoc}
+

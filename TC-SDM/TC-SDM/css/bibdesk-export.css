@@ -1,0 +1,70 @@
+/* css file for laying out publications exported by bibdesk */
+
+.Bibentry {
+	font-size: 100% ;
+	line-height: 120% ;
+	padding-top: 5px ;
+	padding-bottom: 5px ;
+/*	font-family: Georgia, Optima, Bookman, Palatino, Palatino, serif ;*/
+	font-family: "Helvetica Neue" ;
+	border-bottom: 1px solid #e0e0e0 ;
+	padding-left: 22px ; /*22px*/
+	text-indent: -22px ; /*-22px*/
+	margin-bottom: 10px ;
+	max-width: 1000px ;
+}
+.Title, .Pages, .Month, .Date, .Volume, .Author, .Year, .Publisher, .Address {
+	font-style: normal ;
+	color: #000000 ;
+}
+.Journal, .Conference, .Booktitle {
+	font-style: italic ;
+}
+.Abstract {
+	font-size: 90% ;
+	text-align: justify;
+	line-height: 110% ;
+	color: #000000 ;
+	padding: 0px ;
+	margin-top: 5px ;
+	margin-right: 15px ;
+	margin-bottom: 8px ;
+	padding-left: 0px ;
+	text-indent: 0px ;
+}
+.Bibtex {
+	font-family: monaco, Consolas, "Courier New", Courier, monospace ;
+	font-size: 80% ;
+	line-height: 120% ;
+	color: #000000 ;
+	padding: 8px ;
+	padding-bottom: 8px ;
+	margin-top: 5px ;
+	margin-right: 15px ;
+	margin-bottom: 10px ;
+	border-style: solid ;
+	border-width: 1px ;
+	border-color: #cfcfcf ;
+	background: #ffff9f ;
+	padding-left: 30px ;
+	text-indent: -17px ;
+}
+form {
+	margin:0 ;
+	padding:0 ;
+}
+.CheckBoxes {
+	font-size: 85% ;
+	margin-top: 4px ;
+	margin-bottom: 2px ;
+	padding-left: 22px ;
+}
+.Url {
+	font-size: 85% ;
+	font-style: italic ;
+	color: #000000 ;
+	padding-right: 8px ;
+	padding-top: 2px ;
+	padding-bottom: 2px ;
+}
+

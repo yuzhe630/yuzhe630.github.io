@@ -1,0 +1,29 @@
+# jemdoc: menu{MENU}{index.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{TC-SDM}
+
+
+# ==== header
+###include{header.jemdoc}
+
+
+= IEEE Technical Committee on Secure and Dependable Measurement (SDM)
+
+=== Scope 
+
+The goals of this Technical Committee are to:
+
+- Develop, promote and support research and education in the area of secure and dependable measurement;
+
+- Develop and evaluate security oriented testing, measurement and instrumentation methodologies;
+
+- Promote big data analytics and learning techniques for security oriented measurement;
+
+- Develop security and big data related measurement standards and promote them to user, industrial, and government communities;
+
+- Maintain liaison with other societies, technical committees, and international organizations working in the related areas
+
+\n \n
+
+

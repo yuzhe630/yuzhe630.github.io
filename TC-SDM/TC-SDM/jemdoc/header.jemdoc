@@ -1,0 +1,7 @@
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+
+
+#{{<center>}}
+#{{<img src="img/bar_ccps_0.jpg" align="middle" width=1100>}}
+#{{</center>}}

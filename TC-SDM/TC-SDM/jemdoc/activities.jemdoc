@@ -1,0 +1,33 @@
+# jemdoc: menu{MENU}{activity.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{TC-SDM}
+
+# ==== header
+#include{header.jemdoc}
+
+
+= Activities {{<br><font size="4" color="black" style="font-weight:normal;">The complete list of technically sponsored activities are listed as follows:</font>}}
+
+~~~
+{}{img_left}{img/activities/2015-tmscs-icon.jpg}{}{140}{}{https://ieee-iotj.org/wp-content/uploads/2020/09/IOTJ_SPT_CFP.pdf}
+{{<img src="img/icon-new.gif" width=34>}}
+[https://ieee-iotj.org/ IEEE Internet of Things Journal]
+special focus on [https://ieee-iotj.org/wp-content/uploads/2020/09/IOTJ_SPT_CFP.pdf Security, Privacy, and Trustworthiness in Intelligent Cyber-Physical Systems and Internet-of-Things]
+
+Submission deadline: *Jan. 15, 2021*
+~~~
+\n
+
+~~~
+{}{img_left}{img/activities/2015-toc-icon.jpg}{}{140}{}{https://www.ieee-ras.org/images/CFP_-_Machine_Learning_in_Automation_ICPS_1.pdf}
+[https://www.ieee-ras.org/publications/t-ase IEEE Transactions on Automation Science and Engineering]
+special issue on [https://www.ieee-ras.org/images/CFP_-_Machine_Learning_in_Automation_ICPS_1.pdf Machine Learning for Resilient Industrial Cyber-Physical Systems]
+
+Submission deadline: *Oct. 01, 2020*
+~~~
+\n
+
+# ==== bottom
+#include{bottom.jemdoc}
+
