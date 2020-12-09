@@ -22,8 +22,114 @@ United Kingdom  \n
 ==== [http://personal.southampton.ac.uk/sh2e19/ Homepage]
 ~~~
 
+= Members
+#{{{
+\<table id=noborder\>
+\<tr\>
+\<td width=\"50\%\"\>
+# ====== Yiran Chen
+~~~
+{}{img_left}{img/committee/committee-ychen.jpg}{}{120}{}{}
 
-\n \n
+=== [https://ece.duke.edu/faculty/yiran-chen Yiran Chen], *FIEEE*
+*Editor-in-Chief of [https://ieee-cas.org/publications/circuits-and-systems-magazine Circuits and Systems Magazine]* \n
+Duke University \n
+USA \n
+==== [https://ece.duke.edu/faculty/yiran-chen Homepage]
+~~~
+
+
+\<\/td\>
+\<td width=\"50\%\"\>
+# ==== Prof. Jiang Hu
+~~~
+{}{img_left}{img/committee/committee-jhu.jpg}{}{120}{}{}
+
+=== [https://cesg.tamu.edu/faculty/jiang-hu/ Jiang Hu], *FIEEE*
+#Computer Engineering \n
+Electrical and Computer Engineering \n
+Texas A&M University \n
+USA \n
+==== [http://cesg.tamu.edu/faculty/jiang-hu/ Homepage]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Prof. X. Li
+~~~
+{}{img_left}{img/committee/committee-xli.jpg}{}{120}{}{}
+=== [http://ece.duke.edu/faculty/xin-li Xin Li], *FIEEE*
+*Deputy Editor-in-Chief of [https://ieee-ceda.org/publication/tcad-publication IEEE Transactions on Computer Aided Design]* \n
+Duke University \n
+USA \n
+==== [http://ece.duke.edu/faculty/xin-li Homepage]
+~~~
+
+\<\/td\>
+\<td width=\"50\%\"\>
+# ==== Yuzhe Ma
+~~~
+{}{img_left}{img/committee/committee-yzma.jpg}{}{120}{}{}
+
+=== [https://yuzhe630.github.io Yuzhe Ma]
+#Computer Engineering \n
+Huawei Hong Kong Research Center \n
+Hong Kong SAR \n
+==== [https://yuzhe630.github.io Homepage]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Prof. Ye Sun
+~~~
+{}{img_left}{img/committee/committee-ysun.jpg}{}{120}{}{}
+
+=== [https://www.mtu.edu/mechanical/people/faculty/sun/ Ye Sun]
+#Computer Engineering \n
+Mechanical Engineering—Engineering Mechanics \n
+Michigan Technological University\n
+USA \n
+==== [https://www.mtu.edu/mechanical/people/faculty/sun/ Homepage]
+~~~
+
+
+\<\/td\>
+\<td width=\"50\%\"\>
+# ====== Prof. B. Yu
+~~~
+{}{img_left}{img/committee/committee-byu.jpg}{}{120}{}{}
+=== [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
+#*Web Chair* \n
+Computer Science and Engineering \n
+Chinese University of Hong Kong \n
+Hong Kong SAR\n
+==== [http://www.cse.cuhk.edu.hk/~byu/ Homepage]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Prof. Q. Zhu
+~~~
+{}{img_left}{img/committee/committee-qzhu.jpg}{}{120}{}{}
+=== [http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html Qi Zhu]
+#*CPS Software Subcommittee Chair* \n
+Electrical Engineering and Computer Science \n
+Northwestern University \n
+USA \n
+==== [http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html Homepage]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<\/table\>
+#}}}
 
 # ==== bottom
 #include{bottom.jemdoc}
