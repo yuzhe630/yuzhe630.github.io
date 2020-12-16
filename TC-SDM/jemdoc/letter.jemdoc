@@ -1,0 +1,215 @@
+# jemdoc: menu{MENU}{letter.html}
+# jemdoc: addcss{css/jemdoc.css}
+# jemdoc: addcss{css/myExtra.css}
+# jemdoc: title{TC-SDM}
+
+# ==== header
+#include{header.jemdoc}
+
+
+== Editor 
+
+#~~~
+#{}{img_left}{img/committee/committee-xli.jpg}{}{120}{}{}
+#=== [http://ece.duke.edu/faculty/xin-li Xin Li]
+#Electrical and Computer Engineering \n
+#Duke University \n
+#USA \n
+#==== Email: [mailto:xinli.ece@duke.edu xinli.ece@duke.edu]
+#~~~
+#
+#~~~
+#{}{img_left}{img/committee/committee-hli.jpg}{}{120}{}{http://ece.duke.edu/faculty/hai-helen-li}
+#
+#=== [http://ece.duke.edu/faculty/hai-helen-li Hai (Helen) Li]
+#Electrical Engineering & Computer Science \n
+#Duke University \n
+#USA \n
+#==== Email: [mailto:hai.li@duke.edu hai.li@duke.edu]
+#~~~
+
+# ==== B. Yu
+~~~
+{}{img_left}{img/committee/committee-byu.jpg}{}{120}{}{http://www.cse.cuhk.edu.hk/~byu/}
+
+=== [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
+Computer Science and Engineering \n
+Chinese University of Hong Kong \n
+Hong Kong \n
+==== Email: [byu@cse.cuhk.edu.hk byu@cse.cuhk.edu.hk]
+~~~
+
+
+== Associate Editors
+
+\<table id=noborder\>
+
+\<tr\>
+\<td width=\"50\%\"\>
+# ==== Xianghui Cao
+~~~
+{}{img_left}{img/committee/committee-xhcao.jpg}{}{120}{}{https://automation.seu.edu.cn/2019/0528/c24503a275181/page.htm}
+
+=== [https://automation.seu.edu.cn/2019/0528/c24503a275181/page.htm Xianghui Cao]
+Southeast University \n
+China \n
+==== Email: [mailto:xhcao@seu.edu.cn xhcao@seu.edu.cn]
+~~~
+
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td width=\"50\%\"\>
+# ==== Long Chen
+~~~
+{}{img_left}{img/committee/committee-lchen.jpg}{}{120}{}{http://www.carlib.net/}
+
+=== [http://www.carlib.net/ Long Chen]
+School of Data and Computer Science \n
+Sun Yat-Sen University \n
+China \n
+==== Email: [mailto:chenl46@mail.sysu.edu.cn chenl46@mail.sysu.edu.cn]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td width=\"50\%\"\>
+# === Keke Huang
+~~~
+{}{img_left}{img/committee/committee-kkhuang.jpg}{}{120}{}{}
+
+=== [http://faculty.csu.edu.cn/huangkeke/en/index.htm Keke Huang]
+Department of Automation \n
+Central South University \n
+China \n
+==== Email: [mailto:huangkeke@csu.edu.cn huangkeke@csu.edu.cn]
+~~~
+
+
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td width=\"50\%\"\>
+# ==== Wuling Huang
+~~~
+{}{img_left}{img/committee/committee-wlhuang.jpg}{}{120}{}{}
+
+=== [http://people.ucas.ac.cn/~0051462?language=en Wuling Huang]
+Institute of Automation \n
+Chinese Academy of Science \n
+China \n
+==== Email: [mailto:wuling.huang@ia.ac.cn wuling.huang@ia.ac.cn]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Y.Jin
+~~~
+{}{img_left}{img/committee/committee-yjin.jpg}{}{120}{}{http://jin.ece.ufl.edu/}
+
+=== [http://jin.ece.ufl.edu/ Yier Jin]
+Electrical and Computer Engineering \n
+University of Florida \n
+USA \n
+==== Email: [mailto:yier.jin@ece.ufl.edu yier.jin@ece.ufl.edu]
+~~~
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
+# ==== A. Murthy
+~~~
+{}{img_left}{img/committee/committee-amurthy.jpg}{}{120}{}{}
+
+=== Abhishek Murthy
+Philips Lighting Research North America \n
+Cambridge, MA \n
+USA \n
+
+==== Email: [mailto:abhishek.murthy@signify.com abhishek.murthy@signify.com]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== R. Ranjan
+~~~
+{}{img_left}{img/committee/committee-rajiv.jpg}{}{120}{}{http://rajivranjan.net/about/}
+
+=== [http://rajivranjan.net/about/ Rajiv Ranjan]
+School of Computing Science \n
+Newcastle University \n
+United Kingdom \n
+#Commonwealth Scientific and Industrial Research Organisation \n
+#Australia \n
+==== Email: [mailto:rajiv.ranjan@csiro.au rajiv.ranjan@csiro.au]
+~~~
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
+# ==== M. Shafique
+~~~
+{}{img_left}{img/committee/committee-mshafique.jpg}{}{120}{}{https://ti.tuwien.ac.at/ecs/people/shafique}
+
+=== [https://ti.tuwien.ac.at/ecs/people/shafique Muhammad Shafique]
+Department of Computer Engineering \n
+Vienna University of Technology \n
+Austria \n
+==== Email: [mshafique@ecs.tuwien.ac.at]
+~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+# ==== Yiyu Shi
+~~~
+{}{img_left}{img/committee/committee-yshi.jpg}{}{120}{}{http://www3.nd.edu/~scl/}
+
+=== [http://www3.nd.edu/~scl/ Yiyu Shi]
+Computer Science and Engineering \n
+University of Notre Dame \n
+USA \n
+==== Email: [yshi4@nd.edu yshi4@nd.edu]
+~~~
+
+\<\/td\>
+#\<\/tr\>
+#\<tr\>
+\<td\>
+# ==== M.-C. Yang
+~~~
+{}{img_left}{img/committee/committee-mcyang.jpg}{}{120}{}{http://www.cse.cuhk.edu.hk/~mcyang/}
+
+=== [http://www.cse.cuhk.edu.hk/~mcyang/ Ming-Chang Yang]
+Computer Science and Engineering \n
+Chinese University of Hong Kong \n
+Hong Kong \n
+==== Email: [mcyang@cse.cuhk.edu.hk]
+~~~
+
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+
+#\<\/td\>
+#\<\/tr\>
+\<\/table\>
+
+\n \n
+
+# ==== bottom
+#include{bottom.jemdoc}
+
