@@ -3,17 +3,19 @@
 
 === Journal Papers
 
-- \[J10\] Wei Li, Yuzhe Ma, Qi Sun, Lu Zhang, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, "OpenMPL: An Open Source Layout Decomposer", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J11\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu Yang, Xiuyuan Ma, Bei Yu, [https://doi.org/10.1109/TCAD.2021.3061494 "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
-- \[J9\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, "VLSI Mask Optimization: From Shallow To Deep Learning", accepted by Integration, the VLSI Journal.
+- \[J10\] Wei Li, Yuzhe Ma, Qi Sun, Lu Zhang, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, [https://doi.org/10.1109/TCAD.2020.3042175 "OpenMPL: An Open Source Layout Decomposer"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
-- \[J8\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg, "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection", accepted by ACM Transactions on Design Automation of Electronic Systems (*TODAES*) 
+- \[J9\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, [https://doi.org/10.1016/j.vlsi.2020.11.001 "VLSI Mask Optimization: From Shallow To Deep Learning"], Integration, the VLSI Journal, vol. 77, March, pp. 96–103, 2021.
 
-- \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, [https://ieeexplore.ieee.org/document/9039708 "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J8\] Kang Liu, Haoyu Yang, Yuzhe Ma, Benjamin Tan, Bei Yu, Evangeline F. Y. Young, Ramesh Karri, Siddharth Garg, [https://dl.acm.org/doi/10.1145/3408288 "Are Adversarial Perturbations a Showstopper for ML-Based CAD? A Case Study on CNN-Based Lithographic Hotspot Detection"], ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 25, no. 5, 2020. 
 
-- \[J6\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1109/TCAD.2019.2943568 "SRAF Insertion via Supervised Dictionary Learning"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J7\] Yuzhe Ma, Wei Zhong, Shuxiang Hu, Jhih-Rong Gao, Jian Kuang, Jin Miao, Bei Yu, [https://ieeexplore.ieee.org/document/9039708 "A Unified Framework for Simultaneous Layout Decomposition and Mask Optimization"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 39, no. 12, pp. 5069-5082, 2020.
 
-- \[J5\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2019.2939329 "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*)
+- \[J6\] Hao Geng, Wei Zhong, Haoyu Yang, Yuzhe Ma, Joydeep Mitra, Bei Yu, [https://doi.org/10.1109/TCAD.2019.2943568 "SRAF Insertion via Supervised Dictionary Learning"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 39, no. 10, pp. 2849-2859, 2020.
+
+- \[J5\] Haoyu Yang, Shuhe Li, Zihao Deng, Yuzhe Ma, Bei Yu, and Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2019.2939329 "GAN-OPC: Mask Optimization with Lithography-guided Generative Adversarial Nets"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 39, no. 10, pp. 2822–2834, 2020.
 
 - \[J4\] Yuzhe Ma, Subhendu Roy, Jin Miao, Jiamin Chen, Bei Yu, [https://doi.org/10.1109/TCAD.2018.2878129 "Cross-layer Optimization for High Speed Adders: A Pareto Driven Machine Learning Approach"], IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*), vol. 38, no. 12, pp. 2298-2311, 2019. [http://www.cse.cuhk.edu.hk/~yzma/papers/J4-TCAD-MLAdder.pdf (paper)]
 
@@ -25,19 +27,21 @@
 
 === Conference Papers
 
-- \[C22\] Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, "A GPU-enabled Level-Set Method for Mask Optimization", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 01-05, 2021.
+- \[C23\] Junzhe Cai, Changhao Yan, Yuzhe Ma, Bei Yu, Dian Zhou, Xuan Zeng, "NeurFill: Migrating Full-Chip CMP Simulators to Neural Networks for Model-Based Dummy Filling Synthesis", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Dec. 5-9, 2021.
 
-- \[C21\] Zhuolun He, Peiyu Liao, Siting Liu, Yuzhe Ma, Bei Yu, "Physical Synthesis for Advanced Neural Network Processors", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18-21, 2021. (Invited Paper)
+- \[C22\] Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, "A GPU-enabled Level-Set Method for Mask Optimization", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.
 
-- \[C20\] Wei Li, Yuxiao Qu, Gengjie Chen, Yuzhe Ma, Bei Yu, "TreeNet: Deep Point Cloud Embedding for Routing Tree Construction", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18-21, 2021. {{<font color=red size=+0.5><b>}} (Best Paper Award) {{</b></font>}}
+- \[C21\] Zhuolun He, Peiyu Liao, Siting Liu, Yuzhe Ma, Bei Yu, [https://doi.org/10.1145/3394885.3431625 "Physical Synthesis for Advanced Neural Network Processors"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18-21, 2021. (Invited Paper)
 
-- \[C19\] Zhuolun He, Lu Zhang, Peiyu Liao, Yuzhe Ma, Bei Yu, "Reinforcement Learning Driven Physical Synthesis", IEEE International Conference on Solid-State and Integrated Circuit Technology (*ICSICT*), Kunming, Nov. 3-6, 2020. (Invited Paper)
+- \[C20\] Wei Li, Yuxiao Qu, Gengjie Chen, Yuzhe Ma, Bei Yu, [https://doi.org/10.1145/3394885.3431566 "TreeNet: Deep Point Cloud Embedding for Routing Tree Construction"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18-21, 2021. {{<font color=red size=+0.5><b>}} (Best Paper Award) {{</b></font>}}
 
-- \[C18\] Guojin Chen, Wanli Chen, Yuzhe Ma, Haoyu Yang, Bei Yu, "DAMO: Deep Agile Mask Optimization for Full Chip Scale", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 2-5, 2020.
+- \[C19\] Zhuolun He, Lu Zhang, Peiyu Liao, Yuzhe Ma, Bei Yu, [https://doi.org/10.1109/ICSICT49897.2020.9278350 "Reinforcement Learning Driven Physical Synthesis"], IEEE International Conference on Solid-State and Integrated Circuit Technology (*ICSICT*), Kunming, Nov. 3-6, 2020. (Invited Paper)
 
-- \[C17\] Bentian Jiang, Lixin Liu, Yuzhe Ma, Hang Zhang, Evangeline F. Y. Young, Bei Yu, "Neural-ILT: Migrating ILT to Nerual Networks for Mask Printability and Complexity Co-optimizaton", IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 2-5, 2020.
+- \[C18\] Guojin Chen, Wanli Chen, Yuzhe Ma, Haoyu Yang, Bei Yu, [https://doi.org/10.1145/3400302.3415705 "DAMO: Deep Agile Mask Optimization for Full Chip Scale"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 2-5, 2020.
 
-- \[C16\] Zhuolun He, Yuzhe Ma, Lu Zhang, Peiyu Liao, Ngai Wong, Bei Yu, Martin D. F. Wong, "Learn to Floorplan through Acquisition of Effective Local Search Heuristics", IEEE International Conference on Computer Design (*ICCD*), Oct. 18-21, 2020.
+- \[C17\] Bentian Jiang, Lixin Liu, Yuzhe Ma, Hang Zhang, Evangeline F. Y. Young, Bei Yu, [https://doi.org/10.1145/3400302.3415704 "Neural-ILT: Migrating ILT to Nerual Networks for Mask Printability and Complexity Co-optimizaton"], IEEE/ACM International Conference on Computer-Aided Design (*ICCAD*), Nov. 2-5, 2020.
+
+- \[C16\] Zhuolun He, Yuzhe Ma, Lu Zhang, Peiyu Liao, Ngai Wong, Bei Yu, Martin D. F. Wong, [https://doi.org/10.1109/ICCD50377.2020.00061 "Learn to Floorplan through Acquisition of Effective Local Search Heuristics"], IEEE International Conference on Computer Design (*ICCD*), Oct. 18-21, 2020.
 
 - \[C15\] Wei Li, Jialu Xia, Yuzhe Ma, Jialu Li, Yibo Lin, Bei Yu, [https://ieeexplore.ieee.org/abstract/document/9218706 "Adaptive Layout Decomposition with Graph Embedding Neural Networks"], ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, July 19-23, 2020.
 
@@ -45,7 +49,7 @@
 
 - \[C13\] Yuzhe Ma, Zhuolun He, Wei Li, Lu Zhang, Bei Yu, [https://dl.acm.org/doi/abs/10.1145/3372780.3378173 "Understanding Graphs in EDA: From Shallow to Deep Learning"], ACM International Symposium on Physical Design (*ISPD*), Taipei, Mar. 25-Apr. 01, 2020. (Invited Paper)
 
-- \[C12\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, "VLSI Mask Optimization: From Shallow To Deep Learning", IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Beijing, Jan. 13-16, 2020. (Invited Paper)
+- \[C12\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, [https://doi.org/10.1109/ASP-DAC47756.2020.9045241 "VLSI Mask Optimization: From Shallow To Deep Learning"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Beijing, Jan. 13-16, 2020. (Invited Paper)
 
 - \[C11\] Zhonghua Zhou, Ziran Zhu, Jianli Chen, Yuzhe Ma, Bei Yu, Tsung-Yi Ho, Guy Lemieux, Andre Ivano, [https://ieeexplore.ieee.org/document/9142082/ "Congestion-aware Global Routing using Deep Convolutional Generative Adversarial Networks"], ACM/IEEE Workshop on Machine Learning for CAD (*MLCAD*), Alberta, Canada, Sep. 3-4, 2019.
 
