@@ -4,7 +4,8 @@
 # jemdoc: title{TC-SDM}
 
 # ==== header
-#include{header.jemdoc}
+#include {header.jemdoc}
+
 
 = TC Chair
 #{{{
@@ -50,7 +51,7 @@ Ireland \n
 
 === [https://docenti.unisa.it/026260/home Arcangelo Castiglione] \n
 Department of Computer Science\n
-Università di Salerno \n
+Universita di Salerno \n
 Italy\n
 ~~~
 
@@ -172,7 +173,7 @@ Denmark\n
 
 === [https://www.mtu.edu/mechanical/people/faculty/sun/ Ye Sun]
 #Computer Engineering \n
-Mechanical Engineering—Engineering Mechanics \n
+Mechanical Engineering-Engineering Mechanics \n
 Michigan Technological University\n
 USA \n
 #==== [https://www.mtu.edu/mechanical/people/faculty/sun/ Homepage]
@@ -321,5 +322,4 @@ Interested in joining TC-SDM? Fill in this *[./regist.php Form]*.
 
 
 # ==== bottom
-#include{bottom.jemdoc}
-
+#include {bottom.jemdoc}
