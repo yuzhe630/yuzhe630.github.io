@@ -7,7 +7,7 @@
 #include {header.jemdoc}
 
 
-= TC Chair
+= TC Chairs
 #{{{
 \<table id=noborder\>
 \<tr\>
@@ -17,11 +17,29 @@
 {}{img_left}{img/committee/committee-syhu.jpg}{}{120}{}{}
 
 === [http://personal.southampton.ac.uk/sh2e19/ Shiyan Hu]
+*TC Chair* \n
 School of Electronics and Computer Science \n
 University of Southampton \n
 United Kingdom  \n
 #==== [http://personal.southampton.ac.uk/sh2e19/ Homepage]
 ~~~
+
+
+\<\/td\>
+\<td\>
+
+# ====== Prof. B. Yu
+~~~
+{}{img_left}{img/committee/committee-byu.jpg}{}{120}{}{}
+=== [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu ] 
+*TC Co-Chair* \n
+Computer Science and Engineering \n
+Chinese University of Hong Kong \n
+Hong Kong SAR\n
+#==== [http://www.cse.cuhk.edu.hk/~byu/ Homepage]
+~~~
+
+
 \<\/td\>
 \<\/tr\>
 \<\/table\>
@@ -225,19 +243,6 @@ China \n
 \<\/tr\>
 \<tr\>
 \<td\>
-# ====== Prof. B. Yu
-~~~
-{}{img_left}{img/committee/committee-byu.jpg}{}{120}{}{}
-=== [http://www.cse.cuhk.edu.hk/~byu/ Bei Yu]
-#*Web Chair* \n
-Computer Science and Engineering \n
-Chinese University of Hong Kong \n
-Hong Kong SAR\n
-#==== [http://www.cse.cuhk.edu.hk/~byu/ Homepage]
-~~~
-
-\<\/td\>
-\<td\>
 # ==== Prof. Bo Yuan
 ~~~
 {}{img_left}{img/committee/committee-byuan.jpg}{}{120}{}{}
@@ -250,8 +255,6 @@ USA \n
 ~~~
 
 \<\/td\>
-\<\/tr\>
-\<tr\>
 \<td\>
 # ==== Prof. Q. Zhu
 ~~~
@@ -263,6 +266,12 @@ Northwestern University \n
 USA \n
 #==== [http://www.mccormick.northwestern.edu/research-faculty/directory/profiles/zhu-qi.html Homepage]
 ~~~
+
+\<\/td\>
+\<\/tr\>
+\<tr\>
+\<td\>
+
 
 #}}}
 
@@ -317,3 +326,13 @@ China \n
 
 # ==== bottom
 #include {bottom.jemdoc}
+
+{{ 
+#<p hidden>
+Visits  since 2019:
+<br />
+<!-- Start of CuterCounter Code -->
+<a href="https://www.webfreecounter.com/" target="_blank"><img src="https://www.cutercounter.com/hits.php?id=hrvxkkfxp&nd=7&style=5" border="0" alt="visitor counter"></a>
+<!-- End of CuterCounter Code -->
+#</p>
+}}
