@@ -29,7 +29,7 @@ body {
   padding-right: 50px;
   padding-top: 10px;
   padding-bottom: 30px;
-  max-width: 1050px;
+  max-width: 1180px;
 }
 
 #layout-menu {
@@ -38,7 +38,7 @@ body {
 	padding-top: 0.5em;
 	padding-left: 8px;
 	padding-right: 8px;
-	font-size: 1.0em;
+	font-size: 1.2em;
 	width: auto;
 	white-space: nowrap;
     text-align: left;

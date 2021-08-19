@@ -3,6 +3,8 @@
 
 === Journal Papers
 
+- \[J12\] Bentian Jiang, Lixin Liu, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, "Neural-ILT 2.0: Migrating ILT to Domain-specific and Multi-task-enabled Neural Network", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
 - \[J11\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu Yang, Xiuyuan Ma, Bei Yu, [https://doi.org/10.1109/TCAD.2021.3061494 "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
 - \[J10\] Wei Li, Yuzhe Ma, Qi Sun, Lu Zhang, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, [https://doi.org/10.1109/TCAD.2020.3042175 "OpenMPL: An Open Source Layout Decomposer"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
@@ -33,7 +35,7 @@
 
 - \[C23\] Junzhe Cai, Changhao Yan, Yuzhe Ma, Bei Yu, Dian Zhou, Xuan Zeng, "NeurFill: Migrating Full-Chip CMP Simulators to Neural Networks for Model-Based Dummy Filling Synthesis", ACM/IEEE Design Automation Conference (*DAC*), San Francisco, CA, Dec. 5-9, 2021.
 
-- \[C22\] Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, "A GPU-enabled Level-Set Method for Mask Optimization", IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.
+- \[C22\] Ziyang Yu, Guojin Chen, Yuzhe Ma, Bei Yu, [https://ieeexplore.ieee.org/document/9474212 "A GPU-enabled Level-Set Method for Mask Optimization"], IEEE/ACM Proceedings Design, Automation and Test in Europe (*DATE*), Feb. 1-5, 2021.
 
 - \[C21\] Zhuolun He, Peiyu Liao, Siting Liu, Yuzhe Ma, Bei Yu, [https://doi.org/10.1145/3394885.3431625 "Physical Synthesis for Advanced Neural Network Processors"], IEEE/ACM Asian and South Pacific Design Automation Conference (*ASPDAC*), Jan. 18-21, 2021. (Invited Paper)
 
