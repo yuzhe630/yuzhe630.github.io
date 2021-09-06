@@ -3,11 +3,15 @@
 
 === Journal Papers
 
-- \[J12\] Bentian Jiang, Lixin Liu, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, "Neural-ILT 2.0: Migrating ILT to Domain-specific and Multi-task-enabled Neural Network", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J14\] Hao Geng, Yuzhe Ma, Qi Xu, Jin Miao, Subhendu Roy, Bei Yu, "High-Speed Adder Design Space Exploration via Graph Neural Processes", accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
-- \[J11\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu Yang, Xiuyuan Ma, Bei Yu, [https://doi.org/10.1109/TCAD.2021.3061494 "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J13\] Bentian Jiang, Lixin Liu, Yuzhe Ma, Bei Yu, Evangeline F. Y. Young, [https://doi.org/10.1109/TCAD.2021.3109556 "Neural-ILT 2.0: Migrating ILT to Domain-specific and Multi-task-enabled Neural Network"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
 
-- \[J10\] Wei Li, Yuzhe Ma, Qi Sun, Lu Zhang, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, [https://doi.org/10.1109/TCAD.2020.3042175 "OpenMPL: An Open Source Layout Decomposer"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+- \[J12\] Wei Zhong, Shuxiang Hu, Yuzhe Ma, Haoyu Yang, Xiuyuan Ma, Bei Yu, [https://doi.org/10.1109/TCAD.2021.3061494 "Deep Learning-Driven Simultaneous Layout Decomposition and Mask Optimization"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
+- \[J11\] Wei Li, Yuzhe Ma, Qi Sun, Lu Zhang, Yibo Lin, Iris Hui-Ru Jiang, Bei Yu, David Z. Pan, [https://doi.org/10.1109/TCAD.2020.3042175 "OpenMPL: An Open Source Layout Decomposer"], accepted by IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (*TCAD*).
+
+- \[J10\] Guyue Huang, Jingbo Hu, Yifan He, Jialong Liu, Mingyuan Ma, Zhaoyang Shen, Juejian Wu, Yuanfan Xu, Hengrui Zhang, Kai Zhong, Xuefei Ning, Yuzhe Ma, Haoyu Yang, Bei Yu, Huazhong Yang, Yu Wang, [https://doi.org/10.1145/3451179 "Machine Learning for Electronic Design Automation: A Survey"], ACM Transactions on Design Automation of Electronic Systems (*TODAES*), vol. 25, no. 5, 2021.
 
 - \[J9\] Haoyu Yang, Wei Zhong, Yuzhe Ma, Hao Geng, Ran Chen, Wanli Chen, Bei Yu, [https://doi.org/10.1016/j.vlsi.2020.11.001 "VLSI Mask Optimization: From Shallow To Deep Learning"], Integration, the VLSI Journal, vol. 77, March, pp. 96–103, 2021.
 
