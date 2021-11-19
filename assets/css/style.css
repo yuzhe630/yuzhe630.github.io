@@ -376,29 +376,12 @@ hr {
         text-align: center;
     }
 
-    .pub_sophia {
-        font-size: 18px;
-        padding-bottom: 1px;
-        border-bottom: 1px solid;
-        line-height: 4px;
-    }
-
     .pub_links {
         font-size: 18px;
         text-align: center;
         margin-top: 0px;
     }
 
-    .software_name {
-        font-size: 20px;
-        margin-right: 0px;
-    }
-
-    .software_link {
-        font-size: 18px;
-        margin-top: 0px;
-        text-align: right;
-    }
 }
 @media (max-width:768px) and (min-width:417px) {
 
