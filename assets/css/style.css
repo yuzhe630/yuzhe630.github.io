@@ -1,0 +1,413 @@
+body {
+    font-family: 'Mulish', sans-serif;
+    font-size: 18px;
+    padding-top: 0px;
+    /*padding-top: 62px;*/
+}
+
+ul {
+    padding-left: 25px;
+}
+
+a {
+    color: #0074bc;
+}
+
+a:hover {
+    color: #996600;
+}
+
+hr {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    border: 2px;
+    border-top: 0.5px solid #d39e00;
+}
+
+.li {
+    text-align: -webkit-match-parent;
+    margin-bottom: 0.5em;
+    list-style-position: inside;
+    padding-left: 50px;
+    text-indent: -25px;
+}
+
+.li-nav-item {
+    text-align: center;
+    margin-bottom: 0.5em;
+    list-style-position: inside;
+}
+
+
+.li-pub-award{
+    color: #CC9900;
+    font-weight: bold;
+}
+
+.li-pub-invite{
+    color: #0074bc;
+    font-weight: bold;
+}
+
+.navbar {
+    background: #DDDDDD;
+    padding: 0.1rem 1rem;
+}
+
+.collapse hr {
+    max-width: 100px;
+    height: 5px;
+    border-top: 3px solid #e03333;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-weight: bold;
+    color: #0074bc;
+    margin-top: 8px;
+    font-size: 20px;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    color: #996600 ;
+}
+
+.navbar-nav li:hover>ul.dropdown-menu {
+    margin-top: -8px;
+    display: block;
+}
+.navbar-brand {
+    margin-left: 0px;
+    align-items: flex-end;
+}
+                  
+.newsblock{
+    background-color: #ffffee;
+    border: 1px solid silver;
+    padding: 0.3em 0.5em;
+}
+
+.container {
+    max-width: 1100px;
+    margin-bottom: 100px;
+}
+
+#about {
+    padding-top: 20px;
+}
+
+#about h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: #0074bc;
+}
+
+#about h2 {
+    font-size: 22px;
+}
+
+#about h5 {
+    font-size: 22px;
+}
+
+.portrait_img {
+    max-height: 300px;
+}
+.logo_img {
+    max-height: 76px;
+    text-align: left;
+}
+.about {
+    font-size: 18px;
+    margin-top: 30px;
+    text-align: justify;
+}
+                  
+.opening{
+    color: #ed1b2f;
+}
+.section_header {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 24px;
+    color: #0074bc;
+    font-weight: bold;
+}
+
+.section_header hr {
+    height: 5px;
+    border-top: 1px solid #0074bc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.subsec_header {
+    margin-top: 30px;
+    text-align: left;
+    font-size: 20px;
+}
+
+.publication {
+    margin-bottom: 30px;
+}
+.pub_year {
+    font-size: 20px;
+    font-weight: bold;
+    padding-left: 0.5em;
+    padding-bottom: 0.3em;
+    padding-top: 0.3em;
+    margin-bottom: 1em;
+    background-color: #CC9900;
+}
+.pub-icon{
+    padding-left: 1em;
+}
+.pub_title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 3px;
+}
+.publication hr{
+    height: 5px;
+    border-top: 1px solid #CC9900;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.publication h4 {
+    width: 100%; 
+    text-align: center; 
+    border-bottom: 1px solid #CC9900; 
+    line-height: 0.1em;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    color: #CC9900;
+ } 
+ 
+ .publication h4 span { 
+     background:#fff; 
+     padding:0 10px; 
+ }
+
+.pub_venue {
+    font-size: 18px;
+    margin-right: 80px;
+}
+
+.service-venue{
+    font-size: 18px;
+    padding-right: 80px;
+}
+
+.service-date {
+    margin-top: -30px;
+    font-size: 18px;
+    text-align: right;
+}
+
+.service{
+    margin-bottom: 1em;
+}
+
+
+.teach_pub_links {
+    font-size: 18px;
+    text-align: right;
+    margin-top: -26px;
+}
+
+.pub_title a {
+    color: #000000;
+}
+
+.pub_title a:hover {
+    color: #996600;
+}
+
+.pub_links {
+    font-size: 18px;
+    text-align: right;
+    margin-top: -32px;
+}
+
+.experience {
+    margin-bottom: 5px;
+    margin-bottom: 1em;
+}
+
+.experience>img:first-of-type {
+    width: 100px;
+}
+
+.news_title {
+    font-size: 18px;
+}
+
+.exp_position {
+    font-size: 18px;
+    padding-right: 80px;
+    color: #0074bc;
+}
+
+.exp_affiliation {
+    font-size: 18px;
+    margin-right: 200px;
+}
+
+.exp_time {
+    margin-top: -30px;
+    font-size: 18px;
+    text-align: right;
+}
+
+
+.software {
+    margin-bottom: 10px;
+}
+
+.software_name {
+    margin-right: 30px;
+}
+
+.software_link {
+    font-size: 18px;
+    margin-top: -36px;
+    text-align: right;
+}
+
+.student {
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.student_name {
+    font-size: 18px;
+    font-weight: bold;
+    padding-right: 0px;
+}
+
+.student_link {
+    font-size: 18px;
+    margin-top: -26px;
+    text-align: right;
+}
+
+#news_arcv h5 {
+    text-align: left;
+}
+
+@media (max-width: 416px) {
+
+    .dropdown-item {
+        text-align: center;
+    }
+
+    .about_info {
+        text-align: center;
+    }
+
+    #about h1 {
+        font-size: 32px;
+    }
+
+    #about h2 {
+        font-size: 22px;
+    }
+
+    .experience {
+        margin-bottom: 5px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .exp_normal {
+        font-size: 20px;
+        margin-right: 0px;
+    }
+
+    .exp_title {
+        font-size: 18px;
+        padding-right: 0px;
+    }
+
+    .exp_bold {
+        font-size: 18px;
+        font-weight: bold;
+        padding-right: 0px;
+    }
+
+    .exp_date {
+        margin-top: 0px;
+        font-size: 18px;
+        font-style: italic;
+        text-align: left;
+    }
+
+    .exp_date_long {
+        margin-top: 0px;
+        font-size: 18px;
+        font-style: italic;
+        text-align: left;
+    }
+
+    .publication {
+        margin-bottom: 30px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+
+    .pub_title {
+        font-size: 18px;
+        font-weight: bold;
+        margin-bottom: 3px;
+        text-align: center;
+    }
+
+    .pub_authors {
+        font-size: 16px;
+        text-align: center;
+    }
+
+    .pub_venue {
+        font-size: 16px;
+        font-style: italic;
+        margin-right: 0px;
+        text-align: center;
+    }
+
+    .pub_sophia {
+        font-size: 18px;
+        padding-bottom: 1px;
+        border-bottom: 1px solid;
+        line-height: 4px;
+    }
+
+    .pub_links {
+        font-size: 18px;
+        text-align: center;
+        margin-top: 0px;
+    }
+
+    .software_name {
+        font-size: 20px;
+        margin-right: 0px;
+    }
+
+    .software_link {
+        font-size: 18px;
+        margin-top: 0px;
+        text-align: right;
+    }
+}
+@media (max-width:768px) and (min-width:417px) {
+
+    .dropdown-item {
+        text-align: center;
+    }
+
+    .profile {
+        text-align: center;
+    }
+}
