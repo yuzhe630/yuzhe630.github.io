@@ -164,10 +164,10 @@ hr {
 .pub-icon{
     padding-left: 1em;
 }
-.pub_title {
+.paper-title {
     font-size: 18px;
     font-weight: bold;
-    margin-bottom: 3px;
+    margin-top: 10px;
 }
 .publication hr{
     height: 5px;
@@ -218,11 +218,11 @@ hr {
     margin-top: -26px;
 }
 
-.pub_title a {
+.paper-title a {
     color: #000000;
 }
 
-.pub_title a:hover {
+.paper-title a:hover {
     color: #996600;
 }
 
@@ -259,21 +259,6 @@ hr {
 .exp_time {
     margin-top: -30px;
     font-size: 18px;
-    text-align: right;
-}
-
-
-.software {
-    margin-bottom: 10px;
-}
-
-.software_name {
-    margin-right: 30px;
-}
-
-.software_link {
-    font-size: 18px;
-    margin-top: -36px;
     text-align: right;
 }
 
@@ -358,28 +343,10 @@ hr {
         margin-right: 5px;
     }
 
-    .pub_title {
+    .paper-title {
         font-size: 18px;
         font-weight: bold;
-        margin-bottom: 3px;
-    }
-
-    .pub_authors {
-        font-size: 16px;
-        text-align: center;
-    }
-
-    .pub_venue {
-        font-size: 16px;
-        font-style: italic;
-        margin-right: 0px;
-        text-align: center;
-    }
-
-    .pub_links {
-        font-size: 18px;
-        text-align: center;
-        margin-top: 0px;
+        margin-top: 10px;
     }
 
 }
