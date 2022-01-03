@@ -5,3 +5,4 @@ papers/*
 *.out
 *.gz
 *.zip
+.vscode/*
