@@ -9,6 +9,9 @@
 {{<center>}}
 = \<font color=maroon\>Awards in our Technical Committee\<\/font\>
 {{</center>}}
+~~~
+==== \<font color=maroon\>Nominations for awards of 2022 are now open! Please submit nominations to Prof. Shiyan Hu at [mailto:S.Hu@soton.ac.uk S.Hu@soton.ac.uk] by Sep. 30, 2022\<\/font\>.
+~~~
 === \<font color=maroon\>Outstanding Leadership Award\<\/font\>
 
 The IEEE TCSDM Outstanding Leadership Award recognizes those individuals who have exhibited exemplary and substantive leadership of an extraordinary nature in implementing activities that support the secure and dependable measurement and systems at the local, regional, national, and/or international level. The awardee is expected to make a distinguishing contribution to IEEE with "significant performance". The award is based on volunteering for IEEE community, instead of professional achievements. It consists of a plaque and a citation.
@@ -126,20 +129,8 @@ The nomination should be proposed by someone other than the nominee. The nominat
 - Support letter: provide three letters of recommendation to support the nomination. Support letter cannot be written by nominator or nominee. 
 
 \n
-~~~
-==== All nominations need to be submitted to Award Chair Prof. Omer Rana at [mailto:ranaof@cardiff.ac.uk ranaof@cardiff.ac.uk] by February 1, 2021. 
-~~~
-\n
-=== Award Chair 
-~~~
-{}{img_left}{./img/committee/committee-omer.jpg}{}{135}{}{}
-=== [https://www.cardiff.ac.uk/people/view/118157-rana-omer Omer Rana]
-Computer Science and Informatics \n
-Cardiff University \n
-==== Email: [mailto:ranaof@cardiff.ac.uk ranaof@cardiff.ac.uk]
-~~
 
-\n \n \n \n
+\n \n 
 
 # ==== bottom
 #include {bottom.jemdoc}
